@@ -8,14 +8,14 @@ For this project, I had to ...INSERT. My notes on the full task brief for this a
 
 ### Solution Workflow 
 - To solve this problem, I first cloned the project boilerplate files in a Gitpod environment and followed ....(INSERT_number) .....(INSERT_content) lessons
-- The [in-depth notes I produced when completing this task are here](INSERT_FILE LINK)
+- The [in-depth notes I produced when completing this task are here](https://github.com/franpanteli/10--Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/1%20project-task-notes.txt)
 
 - INSERT_WORKFLOW_DESCRIPTION
 
 - INSERT [`INSERT_FILE_LINKS`](INSERT)
-- I created in-depth notes for this [which are here](INSERT_LINK)
+- I created in-depth notes for this [which are here](https://github.com/franpanteli/10--Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/2%20relational-databases-salon-appointment-scheduler-project-course-notes.txt)
 
 ## To Clone This Repository
 ```
-git clone INSERT_LINK
+git clone https://github.com/franpanteli/10--Relational-Databases-Salon-Appointment-Scheduler-Project.git
 ```
