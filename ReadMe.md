@@ -4,7 +4,7 @@ I independently completed [my tenth project](https://www.freecodecamp.org/learn/
 
 ## Adding INSERT_THIS
 ### Problem Solving
-For this project, I had to ...INSERT. My notes on the full task brief for this are [here](). 
+For this project, I had to ...INSERT. My notes on the full task brief for this are [here](https://github.com/franpanteli/10--Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/1%20project-task-notes.txt). 
 
 ### Solution Workflow 
 - To solve this problem, I first cloned the project boilerplate files in a Gitpod environment and followed ....(INSERT_number) .....(INSERT_content) lessons
