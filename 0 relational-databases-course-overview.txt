@@ -1,0 +1,28 @@
+- Skills gained -> VS Code, PostgreSQL, and the Linux / Unix command line:
+	-> The guided projects increment in increasing levels of complexity as you go along
+
+- Format -> 14 "courses" <- they are guided projects
+	- Learn Bash by Building a Boilerplate:
+		-> the terminal
+		-> linux file systems
+		-> Bash scripting
+
+	- Learn Relational Databases by Building a Mario Database
+	- Celestial Bodies Database
+	- Learn Bash Scripting by Building Five Programs
+	- Learn SQL by Building a Student Database: Part 1
+	- Learn SQL by Building a Student Database: Part 2
+	- World Cup Database
+	- Learn Advanced Bash by Building a Kitty Ipsum Translator
+	- Learn Bash and SQL by Building a Bike Rental Shop
+	- Salon Appointment Scheduler
+	- Learn Nano by Building a Castle
+
+	- Learn Git by Building an SQL Reference Object:
+		-> creating and using relational databases with PostgreSQL <- database management
+	system
+		-> SQL <- coding language for database management
+		-> Version control with Git
+
+	- Periodic Table Database
+	- Number Guessing Game

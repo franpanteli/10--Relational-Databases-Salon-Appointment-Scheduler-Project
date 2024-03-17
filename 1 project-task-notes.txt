@@ -1,0 +1,38 @@
+These are my notes on the project task page. This project is called "World Cup Database." The URL for the page which these notes are on is https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database
+
+About this guided project:
+	-> We are creating a Bash script
+	-> The Bash script is entering information from World Cup games into PostgreSQL
+	-> Then we are going to query the database for summary statistics, et al 
+	-> The aim is, we have World Cup data
+	-> We want a Bash script which takes it and extracts summary statistics et al 
+	-> So we first need to import the Bash script into PostgreSQL
+	-> Then we need to perform calculations / extract the summary statistics using that script 
+
+To run the project:
+	-> Clone the project Gitpod boilerplate files
+	-> You have to do the project in one go, or the progress could be lost
+	-> You need a stable WiFi connection when doing this, or it could cut out halfway through and your progress could be lost
+	-> Run the CodeRoad extension in the command palette in VSCode
+		-> Enter the command palette (command shift p)
+		-> Then CodeRoad: Start
+	-> Then complete the guided project 
+	-> The steps in this are called user stories
+	-> This is more complex than the previous project -> the previous one was split into two repositories  
+
+To submit the project:
+	-> You are submitting the SQL file you create as part of the project
+	-> You need to run a database dump for this 
+	-> There are instructions in the VM on how to do this 
+	-> You need to do it all in one go, or the project progress could be lost and you will have to start it again
+	-> Save the files from completing the files into a GitHub repository and submit a link to the project repository on the page which these notes are made on (https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database)
+	-> You both need to complete the guided project in the Gitpod environment in one go, and to submit the link to the repository for the files exported from this to the page which these notes are made on 
+	-> So the first thing is, complete the project in the Gitpod environment in one go 
+	-> Execute a database dump, and then upload the files to a GitHub repository for the project
+	-> Then submit the link to that repository for the project 
+	-> So we first want to complete the project in Gitpod, and then submit the link to the project repository with the files which this produces 
+
+-> These are the files they want in that repository, to be produced as part of the project:
+	-> worldcup.sql
+	-> insert_data.sh
+	-> queries.sh
