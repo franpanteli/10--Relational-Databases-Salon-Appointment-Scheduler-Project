@@ -14,3 +14,4 @@ To complete the guided project:
 Saving progress: 
 	- You have to complete all of the project progress in one go (without backing out of Gitpod)
 		- Otherwise your progress might not be saved -> in which case you would have to redo it
+
