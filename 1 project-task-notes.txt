@@ -1,3 +1,16 @@
 These are my notes on the project task page. This project is called "Build a Salon Appointment Scheduler." The URL for the page which these notes are on is https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler
 
-- INSERT
+About this guided project:
+	- We are creating an interactive Bash program 
+	- This is going to use PostgreSQL
+	- The data we are tracking is the customers and appointments for a salon 
+
+To complete the guided project:
+	- Copy the project boilerplate code in a Gitpod environment 
+	- Open the command palette (command, shift, p)
+	- CodeRoad: Start
+	- Complete the guided project 
+
+Saving progress: 
+	- You have to complete all of the project progress in one go (without backing out of Gitpod)
+		- Otherwise your progress might not be saved -> in which case you would have to redo it
