@@ -4,7 +4,7 @@ I independently completed [my tenth project](https://www.freecodecamp.org/learn/
 
 ## Creating the Project Shell and SQL Files
 ### Problem Solving
-For this project, I had to write a Bash script which took appointments and services desired for customers at a hairdressers and stored them in an SQL database. My notes on the full task brief for this are [here](https://github.com/franpanteli/10--Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/1%20project-task-notes.txt). 
+For this project, I had to write a Bash script which took appointments for customers at a hairdressers and stored them in an SQL database. My notes on the full task brief for this are [here](https://github.com/franpanteli/10--Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/1%20project-task-notes.txt). 
 
 ### Solution Workflow 
 - To solve this problem, I first cloned the project boilerplate files in a Gitpod environment. I used the CodeRoad extension in VSCode to run tests on the working project files and to view their success criteria
