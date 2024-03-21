@@ -10,7 +10,7 @@ For this project, I had to write a Bash script which took appointments for custo
 - To solve this problem, I first cloned the project boilerplate files in a Gitpod environment. I used the CodeRoad extension in VSCode to run tests on the working project files and to view their success criteria
 - I exported these [success criteria as a PDF and annotated them with my problem-solving thought processes](https://github.com/franpanteli/Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/Task%20Challenge%20Notes.pdf)
 - This required the creation of two files. The first was the project [`salon.sh`](https://github.com/franpanteli/Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/salon.sh) file and the second was its [`salon.sql`](https://github.com/franpanteli/Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/salon.sql) file
-- Further information about the functionality of these files is found in their project [notes file](https://github.com/franpanteli/Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/Task%20Challenge%20Notes.pdf). This allowed me to produce a Bash script which successfully stored and entered customer information including names, telephone numbers and appointment times into an SQL database 
+- Further information about the functionality of these files is found in the project [notes file](https://github.com/franpanteli/Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/Task%20Challenge%20Notes.pdf). This allowed me to produce a Bash script which successfully stored and entered customer information including names, telephone numbers and appointment times into an SQL database 
 
 ## To Clone This Repository
 ```
