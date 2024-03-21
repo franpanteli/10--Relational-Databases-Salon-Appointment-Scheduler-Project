@@ -7,7 +7,7 @@ I independently completed [my tenth project](https://www.freecodecamp.org/learn/
 For this project, I had to write a Bash script which took appointments for customers at a hairdressers and stored them in an SQL database. My notes on the full task brief for this are [here](https://github.com/franpanteli/10--Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/1%20project-task-notes.txt). 
 
 ### Solution Workflow 
-- To solve this problem, I first cloned the project in a Gitpod environment. This user interface allowed me to run tests on the created project files and view the criteria that they had to satisfty to pass the project
+- To solve this problem, I first cloned the project boilerplate files in a Gitpod environment. This user interface allowed me to run tests on the created project files and view the criteria that they had to satisfty to pass the project
 - The [project criteria were exported from its Gitpod environment as a PDF and annotated in depth](https://github.com/franpanteli/Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/Task%20Challenge%20Notes.pdf)
 - The [in-depth notes I produced when completing this task are here](https://github.com/franpanteli/10--Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/2%20relational-databases-salon-appointment-scheduler-project-course-notes.txt)
 - This required the creation of two files, the first was the 
