@@ -10,7 +10,7 @@ For this project, I had to write a Bash script which took appointments and servi
 - To solve this problem, I first cloned the project boilerplate files in a Gitpod environment. This user interface allowed me to run tests on the created project files and view the criteria that they had to satisfty to pass the project
 - The [project criteria were exported from its Gitpod environment as a PDF and annotated in-depth](https://github.com/franpanteli/Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/Task%20Challenge%20Notes.pdf)
 - This required the creation of two files, the first was the project [`salon.sh`](https://github.com/franpanteli/Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/salon.sh) file and the second was its [`salon.sql`](https://github.com/franpanteli/Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/salon.sql) file
-
+- Further information about the functionality of these files is found in their project [notes file](https://github.com/franpanteli/Relational-Databases-Salon-Appointment-Scheduler-Project/blob/main/Task%20Challenge%20Notes.pdf)
 ## To Clone This Repository
 ```
 git clone https://github.com/franpanteli/Relational-Databases-Salon-Appointment-Scheduler-Project.git
